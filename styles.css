@@ -5,11 +5,12 @@
 	flex-direction:column;
 	margin-bottom:10px;
 }
-.book-library{font-size:20px;
-	font-weight:bold;
-	text-align:center;
+.book-library{text-align:center;
 	background-color:#ffffff;
 	}
+.book{
+	background-color:#f8f8f8;
+}
 .price{text-align:center;
 	background-color:#2ecc71;
 	color:white;
